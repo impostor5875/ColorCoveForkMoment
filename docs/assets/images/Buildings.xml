@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Buildings.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Building Frames0000" x="0" y="0" width="585" height="758"/>
+	<SubTexture name="Building Frames0001" x="585" y="0" width="585" height="758"/>
+	<SubTexture name="Building Frames0002" x="1170" y="0" width="585" height="758"/>
+	<SubTexture name="Building Frames0003" x="0" y="758" width="585" height="758"/>
+	<SubTexture name="Building Frames0004" x="585" y="758" width="585" height="758"/>
+</TextureAtlas>

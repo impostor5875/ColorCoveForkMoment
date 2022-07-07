@@ -1,0 +1,2 @@
+the characters were originally split into "Nicholas" and "Phil" spritesheets
+but uhh i thought it'd be easier to write character class to use one sprite sheet

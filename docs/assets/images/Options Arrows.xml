@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options Arrows.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Option Arrow Die0000" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Die0001" x="117" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Die0002" x="234" y="0" width="115" height="97" frameX="-1" frameY="0" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0003" x="349" y="0" width="113" height="95" frameX="-2" frameY="-1" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0004" x="462" y="0" width="109" height="92" frameX="-4" frameY="-3" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0005" x="571" y="0" width="107" height="90" frameX="-5" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0006" x="678" y="0" width="108" height="91" frameX="-5" frameY="-3" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0007" x="786" y="0" width="109" height="92" frameX="-4" frameY="-3" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0008" x="895" y="0" width="107" height="92" frameX="-5" frameY="-3" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0009" x="0" y="97" width="107" height="90" frameX="-5" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0010" x="107" y="97" width="107" height="90" frameX="-5" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0011" x="571" y="0" width="107" height="90" frameX="-5" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0012" x="214" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0013" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0014" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0015" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0016" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0017" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0018" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0019" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0020" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0021" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0022" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0023" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0024" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0025" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0026" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Die0027" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Press0000" x="426" y="97" width="159" height="64" frameX="0" frameY="-17" frameWidth="161" frameHeight="97"/>
+	<SubTexture name="Option Arrow Press0001" x="585" y="97" width="139" height="81" frameX="-19" frameY="-8" frameWidth="161" frameHeight="97"/>
+	<SubTexture name="Option Arrow Press0002" x="724" y="97" width="132" height="86" frameX="-27" frameY="-6" frameWidth="161" frameHeight="97"/>
+	<SubTexture name="Option Arrow Press0003" x="856" y="97" width="125" height="91" frameX="-34" frameY="-3" frameWidth="161" frameHeight="97"/>
+	<SubTexture name="Option Arrow Press0004" x="0" y="188" width="119" height="95" frameX="-40" frameY="-1" frameWidth="161" frameHeight="97"/>
+	<SubTexture name="Option Arrow Press0005" x="119" y="188" width="118" height="97" frameX="-43" frameY="0" frameWidth="161" frameHeight="97"/>
+	<SubTexture name="Option Arrow Press0006" x="0" y="0" width="117" height="97" frameX="-43" frameY="0" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Press0007" x="0" y="0" width="117" height="97" frameX="-43" frameY="0" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0000" x="320" y="97" width="106" height="90" frameX="-6" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0001" x="237" y="188" width="107" height="90" frameX="-5" frameY="-4" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0002" x="344" y="188" width="109" height="92" frameX="-4" frameY="-3" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0003" x="453" y="188" width="113" height="95" frameX="-2" frameY="-1" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0004" x="566" y="188" width="115" height="97" frameX="-1" frameY="0" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0005" x="681" y="188" width="115" height="95" frameX="-1" frameY="-1" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0006" x="796" y="188" width="115" height="95" frameX="-1" frameY="-1" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0007" x="0" y="285" width="116" height="97" frameX="0" frameY="0" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0008" x="116" y="285" width="116" height="97" frameX="0" frameY="0" frameWidth="117" frameHeight="97"/>
+	<SubTexture name="Option Arrow Revive0009" x="232" y="285" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0010" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0011" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0012" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0013" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0014" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0015" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0016" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0017" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0018" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0019" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0020" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Revive0021" x="0" y="0" width="117" height="97"/>
+	<SubTexture name="Option Arrow Static0000" x="0" y="0" width="117" height="97"/>
+</TextureAtlas>
