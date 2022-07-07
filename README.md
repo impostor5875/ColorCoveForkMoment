@@ -30,11 +30,14 @@ And some unique ones for debug builds:<br/>
 * 2 (Next animation in Offset State)<br/>
 * Space (Play animation in Offset State)<br/>
 * Arrow Keys (Change animation offset in Offset State)<br/>
-<br/>
+
 ## How To Compile
-<i>NOTE: IF you publish a public modification to this game, you <b>MUST</b> open source it on github & add a link to the source code.</i>
+<i>Note: IF you publish a public modification to this game, you <b>MUST</b> open source it on github & add a link to the source code.</i>
+<br/>
 Download Haxe [4.2.4 64-bit](https://haxe.org/download/file/4.2.4/haxe-4.2.4-win64.exe/) or [4.2.4 32-bit](https://haxe.org/download/file/4.2.4/haxe-4.2.4-win.exe/).
+<br/>
 Download the [source code of this repository](https://www.github.com/DillyzThe1/ColorCove/archive/refs/heads/main.zip) or the [source code of the latest release](https://www.github.com/DillyzThe1/ColorCove/releases/latest).
+<br/>
 Extract the zip file and open the folder.<br/>
 Run setup.bat and let it automatically install.<br/>
 <i>* NOTE: Do NOT let it open the example repositories it installs.</i><br/>
