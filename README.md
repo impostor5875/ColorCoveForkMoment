@@ -24,6 +24,7 @@ For (semi-mobile-compatible) web builds, go to [this link](https://github.com/Di
 You can click/tap any UI element you need, but you also have some standard controls:<br/>
 * Escape (Exiting a menu/popup)<br/>
 * Enter (Pausing)<br/>
+
 And some unique ones for debug builds:<br/>
 * 9 (Offset State, accessed from Menu State)<br/>
 * 1 (Last animation in Offset State)<br/>
@@ -33,6 +34,7 @@ And some unique ones for debug builds:<br/>
 
 ## How To Compile
 <i>Note: IF you publish a public modification to this game, you <b>MUST</b> open source it on github & add a link to the source code.</i>
+<br/>
 <br/>
 Download Haxe [4.2.4 64-bit](https://haxe.org/download/file/4.2.4/haxe-4.2.4-win64.exe/) or [4.2.4 32-bit](https://haxe.org/download/file/4.2.4/haxe-4.2.4-win.exe/).
 <br/>
