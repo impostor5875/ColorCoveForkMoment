@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options Icons.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OI Camera0000" x="0" y="0" width="60" height="58"/>
+	<SubTexture name="OI Headphones0000" x="60" y="0" width="72" height="59"/>
+	<SubTexture name="OI Rot0000" x="132" y="0" width="63" height="78"/>
+	<SubTexture name="OI Sound0000" x="0" y="78" width="97" height="83"/>
+	<SubTexture name="OI Zoom0000" x="97" y="78" width="69" height="68"/>
+	<SubTexture name="OI quality0000" x="166" y="78" width="76" height="64"/>
+</TextureAtlas>
