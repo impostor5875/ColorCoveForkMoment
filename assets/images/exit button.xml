@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exit button.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="go back lmao0000" x="0" y="0" width="94" height="87" frameX="-17" frameY="-19" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0001" x="94" y="0" width="98" height="87" frameX="-14" frameY="-18" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0002" x="192" y="0" width="125" height="110"/>
+	<SubTexture name="go back lmao0003" x="317" y="0" width="121" height="105" frameX="-2" frameY="-4" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0004" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0005" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0006" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0007" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0008" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0009" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0010" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0011" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0012" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0013" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+	<SubTexture name="go back lmao0014" x="0" y="110" width="114" height="96" frameX="-5" frameY="-11" frameWidth="125" frameHeight="110"/>
+</TextureAtlas>

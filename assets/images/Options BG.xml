@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options BG.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Options BG0000" x="0" y="0" width="1107" height="694"/>
+	<SubTexture name="Options BG0001" x="0" y="0" width="1107" height="694"/>
+	<SubTexture name="Options BG0002" x="0" y="0" width="1107" height="694"/>
+	<SubTexture name="Options BG0003" x="0" y="0" width="1107" height="694"/>
+	<SubTexture name="Options BG0004" x="0" y="0" width="1107" height="694"/>
+	<SubTexture name="Options BG0005" x="0" y="0" width="1107" height="694"/>
+	<SubTexture name="Options BG0006" x="0" y="0" width="1107" height="694"/>
+	<SubTexture name="Options BG0007" x="0" y="0" width="1107" height="694"/>
+	<SubTexture name="Options BG0008" x="0" y="694" width="1099" height="678" frameX="-6" frameY="-16" frameWidth="1107" frameHeight="694"/>
+	<SubTexture name="Options BG0009" x="0" y="694" width="1099" height="678" frameX="-6" frameY="-16" frameWidth="1107" frameHeight="694"/>
+	<SubTexture name="Options BG0010" x="0" y="694" width="1099" height="678" frameX="-6" frameY="-16" frameWidth="1107" frameHeight="694"/>
+	<SubTexture name="Options BG0011" x="0" y="694" width="1099" height="678" frameX="-6" frameY="-16" frameWidth="1107" frameHeight="694"/>
+	<SubTexture name="Options BG0012" x="0" y="694" width="1099" height="678" frameX="-6" frameY="-16" frameWidth="1107" frameHeight="694"/>
+	<SubTexture name="Options BG0013" x="0" y="694" width="1099" height="678" frameX="-6" frameY="-16" frameWidth="1107" frameHeight="694"/>
+	<SubTexture name="Options BG0014" x="0" y="694" width="1099" height="678" frameX="-6" frameY="-16" frameWidth="1107" frameHeight="694"/>
+	<SubTexture name="Options BG0015" x="0" y="694" width="1099" height="678" frameX="-6" frameY="-16" frameWidth="1107" frameHeight="694"/>
+</TextureAtlas>

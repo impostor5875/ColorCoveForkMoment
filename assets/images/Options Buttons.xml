@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options Buttons.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BoolMod false0000" x="0" y="0" width="111" height="80" frameX="-8" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0001" x="111" y="0" width="127" height="96" frameX="0" frameY="0" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0002" x="238" y="0" width="121" height="89" frameX="-3" frameY="-14" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0003" x="359" y="0" width="117" height="87" frameX="-5" frameY="-20" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0004" x="476" y="0" width="113" height="86" frameX="-7" frameY="-23" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0005" x="589" y="0" width="107" height="86" frameX="-10" frameY="-25" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0006" x="696" y="0" width="103" height="85" frameX="-12" frameY="-27" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0007" x="799" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0008" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0009" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0010" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0011" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0012" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0013" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0014" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0015" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0016" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0017" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0018" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0019" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0020" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0021" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0022" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0023" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0024" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0025" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0026" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0027" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0028" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0029" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0030" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod false0031" x="902" y="0" width="103" height="85" frameX="-12" frameY="-28" frameWidth="127" frameHeight="113"/>
+	<SubTexture name="BoolMod true0000" x="0" y="96" width="122" height="96" frameX="-8" frameY="-36" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0001" x="122" y="96" width="138" height="120" frameX="0" frameY="0" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0002" x="260" y="96" width="134" height="110" frameX="-3" frameY="-16" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0003" x="394" y="96" width="132" height="108" frameX="-5" frameY="-22" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0004" x="526" y="96" width="130" height="106" frameX="-7" frameY="-26" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0005" x="656" y="96" width="127" height="104" frameX="-10" frameY="-29" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0006" x="783" y="96" width="125" height="104" frameX="-12" frameY="-31" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0007" x="0" y="216" width="124" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0008" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0009" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0010" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0011" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0012" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0013" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0014" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0015" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0016" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0017" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0018" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="BoolMod true0019" x="124" y="216" width="125" height="103" frameX="-12" frameY="-32" frameWidth="138" frameHeight="135"/>
+	<SubTexture name="IntMod0000" x="249" y="216" width="167" height="68"/>
+	<SubTexture name="IntMod Minus0000" x="416" y="216" width="172" height="79"/>
+	<SubTexture name="IntMod Minus0001" x="588" y="216" width="171" height="77" frameX="-1" frameY="-2" frameWidth="172" frameHeight="79"/>
+	<SubTexture name="IntMod Minus0002" x="759" y="216" width="169" height="74" frameX="-3" frameY="-4" frameWidth="172" frameHeight="79"/>
+	<SubTexture name="IntMod Minus0003" x="0" y="319" width="168" height="73" frameX="-4" frameY="-5" frameWidth="172" frameHeight="79"/>
+	<SubTexture name="IntMod Minus0004" x="168" y="319" width="167" height="71" frameX="-5" frameY="-7" frameWidth="172" frameHeight="79"/>
+	<SubTexture name="IntMod Minus0005" x="335" y="319" width="167" height="70" frameX="-5" frameY="-8" frameWidth="172" frameHeight="79"/>
+	<SubTexture name="IntMod Minus0006" x="502" y="319" width="167" height="70" frameX="-5" frameY="-8" frameWidth="172" frameHeight="79"/>
+	<SubTexture name="IntMod Minus0007" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0008" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0009" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0010" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0011" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0012" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0013" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0014" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0015" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0016" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0017" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0018" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0019" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0020" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0021" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Minus0022" x="249" y="216" width="167" height="68" frameX="-5" frameY="-8" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0000" x="669" y="319" width="177" height="80"/>
+	<SubTexture name="IntMod Plus0001" x="846" y="319" width="176" height="76" frameX="0" frameY="-3" frameWidth="177" frameHeight="80"/>
+	<SubTexture name="IntMod Plus0002" x="0" y="399" width="174" height="74" frameX="0" frameY="-6" frameWidth="177" frameHeight="80"/>
+	<SubTexture name="IntMod Plus0003" x="174" y="399" width="173" height="72" frameX="0" frameY="-8" frameWidth="177" frameHeight="80"/>
+	<SubTexture name="IntMod Plus0004" x="347" y="399" width="171" height="71" frameX="0" frameY="-9" frameWidth="177" frameHeight="80"/>
+	<SubTexture name="IntMod Plus0005" x="518" y="399" width="171" height="71" frameX="0" frameY="-9" frameWidth="177" frameHeight="80"/>
+	<SubTexture name="IntMod Plus0006" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0007" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0008" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0009" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0010" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0011" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0012" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0013" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0014" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0015" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0016" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0017" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0018" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0019" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="IntMod Plus0020" x="249" y="216" width="167" height="68" frameX="0" frameY="-9" frameWidth="167" frameHeight="68"/>
+	<SubTexture name="undefined0000" x="689" y="399" width="31" height="61"/>
+</TextureAtlas>

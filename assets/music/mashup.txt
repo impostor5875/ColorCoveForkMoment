@@ -1,0 +1,3 @@
+go to the github repo, open the art folder, and download "pausegress.ogg".
+it's a scrapped pause menu theme that became a mashup of the menu and main themes.
+scrapped bc it didnt fit
