@@ -19,7 +19,7 @@ Your goal is to get the boring monochrome outliers to stop trying to make it bor
 ## How To Play
 
 For windows builds, go [here](https://github.com/DillyzThe1/ColorCove/releases) & download the zip.<br/>
-For (semi-mobile-compatible) web builds, go to [this link](https://github.com/DillyzThe1/ColorCove/releases) instead.
+For (semi-mobile-compatible) web builds, go to [this link](https://dillyzthe1.github.io/ColorCoveWebBuild/) instead.
 
 You can click/tap any UI element you need, but you also have some standard controls:<br/>
 * Escape (Exiting a menu/popup)<br/>
