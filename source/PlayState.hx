@@ -51,7 +51,7 @@ class PlayState extends FlxState
 
 	public function killChar(instance:Character, phil:Bool)
 	{
-		if (instance.philDied)
+		if (instance.isDead)
 			return;
 		var newThing:Int = phil ? -500 : 10;
 		score += newThing;
@@ -239,14 +239,14 @@ class PlayState extends FlxState
 
 		for (i in charList)
 			if (FlxG.mouse.overlaps(i) && FlxG.mouse.justPressed)
-				if (i.phil && !i.philDied)
+				if (i.isKillable && !i.isDead)
 				{
-					i.philDied = true;
+					i.isDead = true;
 					trolled = false;
 					difficulty += 0.5;
 					var scorePlus = i.speed * (i.x - 750) / 25;
 					score += scorePlus;
-					i.playAnim('death-alt', true);
+					i.playAnim('death${i.characterSuffix}', true);
 					popupText(i.getGraphicMidpoint().x, i.getGraphicMidpoint().y, Std.int(scorePlus));
 					musicBox.playSound('kill', 0.5);
 				}
