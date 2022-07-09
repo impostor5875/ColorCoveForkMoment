@@ -134,10 +134,4 @@
 	<SubTexture name="Speedster Vanishes0009" x="1837" y="1154" width="386" height="384" frameX="-36" frameY="-18" frameWidth="467" frameHeight="487"/>
 	<SubTexture name="Speedster Vanishes0010" x="2223" y="1154" width="426" height="424" frameX="-19" frameY="0" frameWidth="467" frameHeight="487"/>
 	<SubTexture name="Speedster Vanishes0011" x="2649" y="1154" width="467" height="417" frameX="0" frameY="-70" frameWidth="467" frameHeight="487"/>
-	<SubTexture name="Speedster Vanishes0012" x="3116" y="1154" width="0" height="0" frameX="-149" frameY="-122" frameWidth="467" frameHeight="487"/>
-	<SubTexture name="Speedster Vanishes0013" x="3116" y="1154" width="0" height="0" frameX="-149" frameY="-122" frameWidth="467" frameHeight="487"/>
-	<SubTexture name="Speedster Vanishes0014" x="3116" y="1154" width="0" height="0" frameX="-149" frameY="-122" frameWidth="467" frameHeight="487"/>
-	<SubTexture name="Speedster Vanishes0015" x="3116" y="1154" width="0" height="0" frameX="-149" frameY="-122" frameWidth="467" frameHeight="487"/>
-	<SubTexture name="Speedster Vanishes0016" x="3116" y="1154" width="0" height="0" frameX="-149" frameY="-122" frameWidth="467" frameHeight="487"/>
-	<SubTexture name="Speedster Vanishes0017" x="3116" y="1154" width="0" height="0" frameX="-149" frameY="-122" frameWidth="467" frameHeight="487"/>
 </TextureAtlas>
