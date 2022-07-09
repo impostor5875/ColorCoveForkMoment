@@ -12,9 +12,10 @@
 
 # ColorCove
 
-[![](https://img.shields.io/github/downloads/DillyzThe1/Colorcove/total.svg)](../../releases) [![](https://img.shields.io/github/v/release/DillyzThe1/ColorCove)](../../releases/latest) [![](https://img.shields.io/github/repo-size/DillyzThe1/ColorCove)](../../archive/refs/heads/main.zip)<br/>
+[![](https://img.shields.io/github/downloads/DillyzThe1/ColorCove/total.svg)](../../releases) [![](https://img.shields.io/github/v/release/DillyzThe1/ColorCove)](../../releases/latest) [![](https://img.shields.io/github/repo-size/DillyzThe1/ColorCove)](../../archive/refs/heads/main.zip)<br/>
 A colorful game across the side of a street.<br/>
-Your goal is to get the boring monochrome outliers to stop trying to make it boring!
+Your goal is to get the boring monochrome outliers to stop trying to make it boring!<br/>
+<i>Note: If you make a mod, make sure to edit this README's links & change this notice to be a disclaimer.</i>
 
 ## How To Play
 
@@ -33,7 +34,8 @@ And some unique ones for debug builds:<br/>
 * Arrow Keys (Change animation offset in Offset State)<br/>
 
 ## How To Compile
-<i>Note: IF you publish a public modification to this game, you <b>MUST</b> open source it on github & add a link to the source code.</i>
+<i>Note: IF you publish a public modification to this game, you <b>MUST</b> open source it on github & add a link to the source code.</i><br/>
+<i>Also Note: Pull requests of a full-on mod/engine will likely <u><b>not</b> be added</u>. Open an issue under the suggestion tag.</i><br/>
 <br/>
 <br/>
 Download Haxe [4.2.4 64-bit](https://haxe.org/download/file/4.2.4/haxe-4.2.4-win64.exe/) or [4.2.4 32-bit](https://haxe.org/download/file/4.2.4/haxe-4.2.4-win.exe/).
