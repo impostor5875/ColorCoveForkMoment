@@ -10,7 +10,7 @@
 
 
 
-# ColorCove
+# ColorCove Extra Character Mod
 
 [![](https://img.shields.io/github/downloads/DillyzThe1/Colorcove/total.svg)](../../releases) [![](https://img.shields.io/github/v/release/DillyzThe1/ColorCove)](../../releases/latest) [![](https://img.shields.io/github/repo-size/DillyzThe1/ColorCove)](../../archive/refs/heads/main.zip)<br/>
 A colorful game across the side of a street.<br/>
