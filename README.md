@@ -35,7 +35,7 @@ And some unique ones for debug builds:<br/>
 
 ## How To Compile
 <i>Note: IF you publish a public modification to this game, you <b>MUST</b> open source it on github & add a link to the source code.</i><br/>
-<i>Also Note: Pull requests of a full-on mod/engine will likely <u><b>not</b> be added</u>. Open an issue under the suggestion tag.</i><br/>
+<i>Also Note: Pull requests of a full-on mod/engine will likely <u><b>not</b> be added</u>. Open an issue under the enhancement tag.</i><br/>
 <br/>
 <br/>
 Download Haxe [4.2.4 64-bit](https://haxe.org/download/file/4.2.4/haxe-4.2.4-win64.exe/) or [4.2.4 32-bit](https://haxe.org/download/file/4.2.4/haxe-4.2.4-win.exe/).
