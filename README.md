@@ -16,6 +16,10 @@
 A colorful game across the side of a street.<br/>
 Your goal is to get the boring monochrome outliers to stop trying to make it boring!
 
+## Changes
+
+* well, for starters, it <b>literally adds extra characters what do you expect</b>
+
 ## How To Play
 
 For windows builds, go [here](https://github.com/DillyzThe1/ColorCove/releases) & download the zip.<br/>
@@ -31,6 +35,13 @@ And some unique ones for debug builds:<br/>
 * 2 (Next animation in Offset State)<br/>
 * Space (Play animation in Offset State)<br/>
 * Arrow Keys (Change animation offset in Offset State)<br/>
+
+## Character List
+
+* <b>Nicholas</b> - The main business man going to work. He looks like he's having a lot of fun.
+* <b>Phil</b> - The main enemy, trying to ruin Nicholas's fun.
+* <b>Speedster</b> - Phil, but supercharged with electricity. Goes faster than normal Phil.
+* <b>Faker</b> - Phil, but he tries to blend in more with Nicholas. Goes slightly slower since he's using up more energy.
 
 ## How To Compile
 <i>Note: IF you publish a public modification to this game, you <b>MUST</b> open source it on github & add a link to the source code.</i>
