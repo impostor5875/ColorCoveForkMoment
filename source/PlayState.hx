@@ -248,7 +248,10 @@ class PlayState extends FlxState
 					score += scorePlus;
 					i.playAnim('death${i.characterSuffix}', true);
 					popupText(i.getGraphicMidpoint().x, i.getGraphicMidpoint().y, Std.int(scorePlus));
-					musicBox.playSound('kill', 0.5);
+					if (i.characterSuffix == '-speedster')
+						musicBox.playSound('kill-electric', 0.5);
+					else
+						musicBox.playSound('kill', 0.5);
 				}
 
 		if (trolled)
